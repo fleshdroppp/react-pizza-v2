@@ -1,7 +1,5 @@
 ## **React Pizza v2**🍕
 
----
-
 ![preview](https://i.imgur.com/oTEVYlO.png)
 
 ---
